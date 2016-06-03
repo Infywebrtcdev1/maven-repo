@@ -6,7 +6,7 @@
 /org/bouncycastle/*
 /org/eclipse/*
 /org/hamcrest/*
-/org/igniterealtime/*
+#/org/igniterealtime/*
 /org/sample/*
 /org/slf4j/*
 /org/xmpp/*
