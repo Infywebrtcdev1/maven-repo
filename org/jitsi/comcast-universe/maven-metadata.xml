@@ -3,13 +3,13 @@
   <groupId>org.jitsi</groupId>
   <artifactId>comcast-universe</artifactId>
   <versioning>
-    <release>729_254_jicoco31</release>
+    <release>645_203_traceid</release>
     <versions>
       <version>645_203</version>
       <version>645_203_traceid</version>
       <version>729_254_jicoco27</version>
       <version>729_254_jicoco31</version>
     </versions>
-    <lastUpdated>20160606080316</lastUpdated>
+    <lastUpdated>20160607130345</lastUpdated>
   </versioning>
 </metadata>
