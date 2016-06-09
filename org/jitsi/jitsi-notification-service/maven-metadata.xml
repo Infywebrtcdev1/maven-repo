@@ -3,11 +3,12 @@
   <groupId>org.jitsi</groupId>
   <artifactId>jitsi-notification-service</artifactId>
   <versioning>
-    <release>5491_TraceId</release>
+    <release>5515</release>
     <versions>
       <version>5491</version>
       <version>5491_TraceId</version>
+      <version>5515</version>
     </versions>
-    <lastUpdated>20160527100412</lastUpdated>
+    <lastUpdated>20160609122444</lastUpdated>
   </versioning>
 </metadata>
