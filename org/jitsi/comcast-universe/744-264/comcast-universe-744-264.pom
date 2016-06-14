@@ -185,12 +185,12 @@
       <dependency>
         <groupId>org.igniterealtime.smack</groupId>
         <artifactId>smack</artifactId>
-        <version>3.2.2-jitsi-1-20151215.185921-3</version>
+        <version>1.0-SNAPSHOT</version>
       </dependency>
       <dependency>
         <groupId>org.igniterealtime.smack</groupId>
         <artifactId>smackx</artifactId>
-        <version>3.2.2-jitsi-1-20151215.185922-3</version>
+        <version>1.0-SNAPSHOT</version>
       </dependency>
       <dependency>
         <groupId>org.igniterealtime.whack</groupId>
